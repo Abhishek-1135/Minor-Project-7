@@ -1,0 +1,257 @@
+support,itemsets,itemset_size
+0.2546,White Bread 400g,1
+0.254,Toned Milk 1L,1
+0.0578,Rusk 200g,1
+0.0564,Capsicum 500g,1
+0.056,Energy Drink 250ml,1
+0.2184,Potato Chips 90g,1
+0.2164,Cola 750ml,1
+0.2068,Toor Dal 1kg,1
+0.1996,Cooking Oil 1L,1
+0.1982,Basmati Rice 5kg,1
+0.1706,Ghee 500ml,1
+0.1698,Poha 500g,1
+0.0646,Lassi 200ml,1
+0.0606,Rusk Toast 200g,1
+0.055,Murukku 200g,1
+0.0548,Carrot 500g,1
+0.1776,Choco Cookies 150g,1
+0.177,Instant Coffee 100g,1
+0.0606,Curd 400g,1
+0.0604,Bar Soap 125g,1
+0.0598,Tomato 1kg,1
+0.0622,Mineral Water 1L,1
+0.1662,Hand Sanitizer 200ml,1
+0.157,Face Wash 100ml,1
+0.0628,Croissant 2pc,1
+0.0524,Toilet Cleaner 500ml,1
+0.067,Buttermilk 1L,1
+0.061,Floor Cleaner 1L,1
+0.0604,Shampoo 340ml,1
+0.0594,Wheat Flour 5kg,1
+0.0608,Apple 1kg,1
+0.059,Green Tea 25 bags,1
+0.0584,Nachos 100g,1
+0.0584,Dish Wash Liquid 500ml,1
+0.0642,Spinach 250g,1
+0.0592,Lemon Soda 300ml,1
+0.0628,Razor Pack,1
+0.0646,Salt 1kg,1
+0.0568,Air Freshener,1
+0.0562,Potato 1kg,1
+0.0614,Onion 1kg,1
+0.0586,Laundry Detergent 1kg,1
+0.0564,Paneer 200g,1
+0.0648,Cup Cakes 4pc,1
+0.0602,Popcorn 70g,1
+0.0594,Salted Peanuts 200g,1
+0.062,Milk Bun Pack,1
+0.06,Banana 1kg,1
+0.0592,Sugar 1kg,1
+0.0588,Brown Bread 400g,1
+0.0614,Cucumber 500g,1
+0.061,Garbage Bags 30pc,1
+0.0626,Butter 100g,1
+0.057,Namkeen Mix 200g,1
+0.0526,Orange Juice 1L,1
+0.0598,Deodorant Spray,1
+0.0584,Toothpaste 150g,1
+0.0668,Besan 1kg,1
+0.0578,Banana Chips 150g,1
+0.0596,Cheese Slices 200g,1
+0.2384,"Toned Milk 1L, White Bread 400g",2
+0.0584,"Potato Chips 90g, Toned Milk 1L",2
+0.058,"Potato Chips 90g, White Bread 400g",2
+0.055,"Potato Chips 90g, Toned Milk 1L, White Bread 400g",3
+0.1974,"Cola 750ml, Potato Chips 90g",2
+0.057,"Cola 750ml, Toned Milk 1L",2
+0.0568,"Cola 750ml, White Bread 400g",2
+0.0518,"Cola 750ml, Potato Chips 90g, Toned Milk 1L",3
+0.0536,"Cola 750ml, Toned Milk 1L, White Bread 400g",3
+0.0514,"Cola 750ml, Potato Chips 90g, White Bread 400g",3
+0.0484,"Cola 750ml, Potato Chips 90g, Toned Milk 1L, White Bread 400g",4
+0.0478,"Potato Chips 90g, Toor Dal 1kg",2
+0.0472,"Cola 750ml, Toor Dal 1kg",2
+0.054,"Toor Dal 1kg, White Bread 400g",2
+0.0534,"Toned Milk 1L, Toor Dal 1kg",2
+0.0434,"Cola 750ml, Potato Chips 90g, Toor Dal 1kg",3
+0.0512,"Toned Milk 1L, Toor Dal 1kg, White Bread 400g",3
+0.1544,"Cooking Oil 1L, Toor Dal 1kg",2
+0.0456,"Cola 750ml, Cooking Oil 1L",2
+0.0456,"Cooking Oil 1L, Potato Chips 90g",2
+0.0468,"Cooking Oil 1L, Toned Milk 1L",2
+0.0464,"Cooking Oil 1L, White Bread 400g",2
+0.036,"Cola 750ml, Cooking Oil 1L, Toor Dal 1kg",3
+0.0414,"Cola 750ml, Cooking Oil 1L, Potato Chips 90g",3
+0.0364,"Cooking Oil 1L, Potato Chips 90g, Toor Dal 1kg",3
+0.033,"Cola 750ml, Cooking Oil 1L, Potato Chips 90g, Toor Dal 1kg",4
+0.0374,"Cooking Oil 1L, Toned Milk 1L, Toor Dal 1kg",3
+0.0434,"Cooking Oil 1L, Toned Milk 1L, White Bread 400g",3
+0.0376,"Cooking Oil 1L, Toor Dal 1kg, White Bread 400g",3
+0.0354,"Cooking Oil 1L, Toned Milk 1L, Toor Dal 1kg, White Bread 400g",4
+0.1534,"Basmati Rice 5kg, Toor Dal 1kg",2
+0.1462,"Basmati Rice 5kg, Cooking Oil 1L",2
+0.0438,"Basmati Rice 5kg, Potato Chips 90g",2
+0.0436,"Basmati Rice 5kg, Cola 750ml",2
+0.0484,"Basmati Rice 5kg, Toned Milk 1L",2
+0.048,"Basmati Rice 5kg, White Bread 400g",2
+0.1098,"Basmati Rice 5kg, Cooking Oil 1L, Toor Dal 1kg",3
+0.0352,"Basmati Rice 5kg, Potato Chips 90g, Toor Dal 1kg",3
+0.0342,"Basmati Rice 5kg, Cooking Oil 1L, Potato Chips 90g",3
+0.0264,"Basmati Rice 5kg, Cooking Oil 1L, Potato Chips 90g, Toor Dal 1kg",4
+0.0398,"Basmati Rice 5kg, Cola 750ml, Potato Chips 90g",3
+0.0348,"Basmati Rice 5kg, Cola 750ml, Toor Dal 1kg",3
+0.0336,"Basmati Rice 5kg, Cola 750ml, Cooking Oil 1L",3
+0.0322,"Basmati Rice 5kg, Cola 750ml, Potato Chips 90g, Toor Dal 1kg",4
+0.0308,"Basmati Rice 5kg, Cola 750ml, Cooking Oil 1L, Potato Chips 90g",4
+0.0258,"Basmati Rice 5kg, Cola 750ml, Cooking Oil 1L, Toor Dal 1kg",4
+0.0238,"Basmati Rice 5kg, Cola 750ml, Cooking Oil 1L, Potato Chips 90g, Toor Dal 1kg",5
+0.0392,"Basmati Rice 5kg, Toned Milk 1L, Toor Dal 1kg",3
+0.0324,"Basmati Rice 5kg, Cooking Oil 1L, Toned Milk 1L",3
+0.025,"Basmati Rice 5kg, Cooking Oil 1L, Toned Milk 1L, Toor Dal 1kg",4
+0.0454,"Basmati Rice 5kg, Toned Milk 1L, White Bread 400g",3
+0.039,"Basmati Rice 5kg, Toor Dal 1kg, White Bread 400g",3
+0.0318,"Basmati Rice 5kg, Cooking Oil 1L, White Bread 400g",3
+0.0374,"Basmati Rice 5kg, Toned Milk 1L, Toor Dal 1kg, White Bread 400g",4
+0.0298,"Basmati Rice 5kg, Cooking Oil 1L, Toned Milk 1L, White Bread 400g",4
+0.0246,"Basmati Rice 5kg, Cooking Oil 1L, Toor Dal 1kg, White Bread 400g",4
+0.0234,"Basmati Rice 5kg, Cooking Oil 1L, Toned Milk 1L, Toor Dal 1kg, White Bread 400g",5
+0.0392,"Ghee 500ml, Toor Dal 1kg",2
+0.0376,"Cooking Oil 1L, Ghee 500ml",2
+0.0368,"Ghee 500ml, Potato Chips 90g",2
+0.0366,"Basmati Rice 5kg, Ghee 500ml",2
+0.0358,"Cola 750ml, Ghee 500ml",2
+0.0366,"Ghee 500ml, White Bread 400g",2
+0.0364,"Ghee 500ml, Toned Milk 1L",2
+0.0308,"Choco Cookies 150g, Ghee 500ml",2
+0.0298,"Ghee 500ml, Instant Coffee 100g",2
+0.03,"Cooking Oil 1L, Ghee 500ml, Toor Dal 1kg",3
+0.0288,"Basmati Rice 5kg, Ghee 500ml, Toor Dal 1kg",3
+0.0276,"Basmati Rice 5kg, Cooking Oil 1L, Ghee 500ml",3
+0.0214,"Basmati Rice 5kg, Cooking Oil 1L, Ghee 500ml, Toor Dal 1kg",4
+0.0324,"Cola 750ml, Ghee 500ml, Potato Chips 90g",3
+0.0342,"Ghee 500ml, Toned Milk 1L, White Bread 400g",3
+0.027,"Choco Cookies 150g, Ghee 500ml, Instant Coffee 100g",3
+0.1468,"Ghee 500ml, Poha 500g",2
+0.0408,"Poha 500g, Toor Dal 1kg",2
+0.0382,"Cooking Oil 1L, Poha 500g",2
+0.0368,"Basmati Rice 5kg, Poha 500g",2
+0.0356,"Poha 500g, Potato Chips 90g",2
+0.0344,"Cola 750ml, Poha 500g",2
+0.0368,"Poha 500g, Toned Milk 1L",2
+0.0368,"Poha 500g, White Bread 400g",2
+0.0302,"Choco Cookies 150g, Poha 500g",2
+0.03,"Instant Coffee 100g, Poha 500g",2
+0.035,"Ghee 500ml, Poha 500g, Toor Dal 1kg",3
+0.0338,"Cooking Oil 1L, Ghee 500ml, Poha 500g",3
+0.031,"Cooking Oil 1L, Poha 500g, Toor Dal 1kg",3
+0.027,"Cooking Oil 1L, Ghee 500ml, Poha 500g, Toor Dal 1kg",4
+0.0326,"Basmati Rice 5kg, Ghee 500ml, Poha 500g",3
+0.0292,"Basmati Rice 5kg, Poha 500g, Toor Dal 1kg",3
+0.0274,"Basmati Rice 5kg, Cooking Oil 1L, Poha 500g",3
+0.0254,"Basmati Rice 5kg, Ghee 500ml, Poha 500g, Toor Dal 1kg",4
+0.0248,"Basmati Rice 5kg, Cooking Oil 1L, Ghee 500ml, Poha 500g",4
+0.0214,"Basmati Rice 5kg, Cooking Oil 1L, Poha 500g, Toor Dal 1kg",4
+0.031,"Ghee 500ml, Poha 500g, Potato Chips 90g",3
+0.0314,"Cola 750ml, Poha 500g, Potato Chips 90g",3
+0.0296,"Cola 750ml, Ghee 500ml, Poha 500g",3
+0.0272,"Cola 750ml, Ghee 500ml, Poha 500g, Potato Chips 90g",4
+0.031,"Ghee 500ml, Poha 500g, Toned Milk 1L",3
+0.0348,"Poha 500g, Toned Milk 1L, White Bread 400g",3
+0.0312,"Ghee 500ml, Poha 500g, White Bread 400g",3
+0.0292,"Ghee 500ml, Poha 500g, Toned Milk 1L, White Bread 400g",4
+0.026,"Choco Cookies 150g, Ghee 500ml, Poha 500g",3
+0.0266,"Choco Cookies 150g, Instant Coffee 100g, Poha 500g",3
+0.0258,"Ghee 500ml, Instant Coffee 100g, Poha 500g",3
+0.0234,"Choco Cookies 150g, Ghee 500ml, Instant Coffee 100g, Poha 500g",4
+0.0374,"Choco Cookies 150g, Potato Chips 90g",2
+0.0366,"Choco Cookies 150g, Cola 750ml",2
+0.045,"Choco Cookies 150g, White Bread 400g",2
+0.0442,"Choco Cookies 150g, Toned Milk 1L",2
+0.0382,"Choco Cookies 150g, Cooking Oil 1L",2
+0.038,"Choco Cookies 150g, Toor Dal 1kg",2
+0.0342,"Basmati Rice 5kg, Choco Cookies 150g",2
+0.0334,"Choco Cookies 150g, Cola 750ml, Potato Chips 90g",3
+0.0414,"Choco Cookies 150g, Toned Milk 1L, White Bread 400g",3
+0.0294,"Choco Cookies 150g, Cooking Oil 1L, Toor Dal 1kg",3
+0.0268,"Basmati Rice 5kg, Choco Cookies 150g, Cooking Oil 1L",3
+0.0266,"Basmati Rice 5kg, Choco Cookies 150g, Toor Dal 1kg",3
+0.0202,"Basmati Rice 5kg, Choco Cookies 150g, Cooking Oil 1L, Toor Dal 1kg",4
+0.152,"Choco Cookies 150g, Instant Coffee 100g",2
+0.038,"Cola 750ml, Instant Coffee 100g",2
+0.0378,"Instant Coffee 100g, Potato Chips 90g",2
+0.0458,"Instant Coffee 100g, White Bread 400g",2
+0.0454,"Instant Coffee 100g, Toned Milk 1L",2
+0.0378,"Instant Coffee 100g, Toor Dal 1kg",2
+0.0366,"Cooking Oil 1L, Instant Coffee 100g",2
+0.0338,"Basmati Rice 5kg, Instant Coffee 100g",2
+0.032,"Choco Cookies 150g, Cola 750ml, Instant Coffee 100g",3
+0.034,"Cola 750ml, Instant Coffee 100g, Potato Chips 90g",3
+0.0322,"Choco Cookies 150g, Instant Coffee 100g, Potato Chips 90g",3
+0.029,"Choco Cookies 150g, Cola 750ml, Instant Coffee 100g, Potato Chips 90g",4
+0.0398,"Choco Cookies 150g, Instant Coffee 100g, White Bread 400g",3
+0.0426,"Instant Coffee 100g, Toned Milk 1L, White Bread 400g",3
+0.0394,"Choco Cookies 150g, Instant Coffee 100g, Toned Milk 1L",3
+0.0368,"Choco Cookies 150g, Instant Coffee 100g, Toned Milk 1L, White Bread 400g",4
+0.0332,"Choco Cookies 150g, Instant Coffee 100g, Toor Dal 1kg",3
+0.033,"Choco Cookies 150g, Cooking Oil 1L, Instant Coffee 100g",3
+0.029,"Cooking Oil 1L, Instant Coffee 100g, Toor Dal 1kg",3
+0.0258,"Choco Cookies 150g, Cooking Oil 1L, Instant Coffee 100g, Toor Dal 1kg",4
+0.0304,"Basmati Rice 5kg, Choco Cookies 150g, Instant Coffee 100g",3
+0.0274,"Basmati Rice 5kg, Instant Coffee 100g, Toor Dal 1kg",3
+0.026,"Basmati Rice 5kg, Cooking Oil 1L, Instant Coffee 100g",3
+0.0242,"Basmati Rice 5kg, Choco Cookies 150g, Instant Coffee 100g, Toor Dal 1kg",4
+0.0236,"Basmati Rice 5kg, Choco Cookies 150g, Cooking Oil 1L, Instant Coffee 100g",4
+0.0206,"Basmati Rice 5kg, Cooking Oil 1L, Instant Coffee 100g, Toor Dal 1kg",4
+0.0348,"Hand Sanitizer 200ml, Potato Chips 90g",2
+0.0342,"Cola 750ml, Hand Sanitizer 200ml",2
+0.028,"Hand Sanitizer 200ml, Instant Coffee 100g",2
+0.0276,"Choco Cookies 150g, Hand Sanitizer 200ml",2
+0.0444,"Hand Sanitizer 200ml, Toned Milk 1L",2
+0.042,"Hand Sanitizer 200ml, White Bread 400g",2
+0.0268,"Hand Sanitizer 200ml, Poha 500g",2
+0.027,"Ghee 500ml, Hand Sanitizer 200ml",2
+0.0362,"Hand Sanitizer 200ml, Toor Dal 1kg",2
+0.0338,"Cooking Oil 1L, Hand Sanitizer 200ml",2
+0.033,"Basmati Rice 5kg, Hand Sanitizer 200ml",2
+0.0314,"Cola 750ml, Hand Sanitizer 200ml, Potato Chips 90g",3
+0.0234,"Choco Cookies 150g, Hand Sanitizer 200ml, Instant Coffee 100g",3
+0.0404,"Hand Sanitizer 200ml, Toned Milk 1L, White Bread 400g",3
+0.0236,"Ghee 500ml, Hand Sanitizer 200ml, Poha 500g",3
+0.0256,"Cooking Oil 1L, Hand Sanitizer 200ml, Toor Dal 1kg",3
+0.0258,"Basmati Rice 5kg, Hand Sanitizer 200ml, Toor Dal 1kg",3
+0.0228,"Basmati Rice 5kg, Cooking Oil 1L, Hand Sanitizer 200ml",3
+0.1318,"Face Wash 100ml, Hand Sanitizer 200ml",2
+0.0324,"Face Wash 100ml, Potato Chips 90g",2
+0.0318,"Cola 750ml, Face Wash 100ml",2
+0.0278,"Face Wash 100ml, Instant Coffee 100g",2
+0.0274,"Choco Cookies 150g, Face Wash 100ml",2
+0.0396,"Face Wash 100ml, Toned Milk 1L",2
+0.0382,"Face Wash 100ml, White Bread 400g",2
+0.0274,"Face Wash 100ml, Poha 500g",2
+0.0268,"Face Wash 100ml, Ghee 500ml",2
+0.0334,"Face Wash 100ml, Toor Dal 1kg",2
+0.0314,"Cooking Oil 1L, Face Wash 100ml",2
+0.0306,"Basmati Rice 5kg, Face Wash 100ml",2
+0.0266,"Face Wash 100ml, Hand Sanitizer 200ml, Potato Chips 90g",3
+0.0292,"Cola 750ml, Face Wash 100ml, Potato Chips 90g",3
+0.0256,"Cola 750ml, Face Wash 100ml, Hand Sanitizer 200ml",3
+0.0236,"Cola 750ml, Face Wash 100ml, Hand Sanitizer 200ml, Potato Chips 90g",4
+0.0238,"Face Wash 100ml, Hand Sanitizer 200ml, Instant Coffee 100g",3
+0.0244,"Choco Cookies 150g, Face Wash 100ml, Instant Coffee 100g",3
+0.0234,"Choco Cookies 150g, Face Wash 100ml, Hand Sanitizer 200ml",3
+0.0206,"Choco Cookies 150g, Face Wash 100ml, Hand Sanitizer 200ml, Instant Coffee 100g",4
+0.0334,"Face Wash 100ml, Hand Sanitizer 200ml, Toned Milk 1L",3
+0.0364,"Face Wash 100ml, Toned Milk 1L, White Bread 400g",3
+0.0316,"Face Wash 100ml, Hand Sanitizer 200ml, White Bread 400g",3
+0.0304,"Face Wash 100ml, Hand Sanitizer 200ml, Toned Milk 1L, White Bread 400g",4
+0.0218,"Face Wash 100ml, Hand Sanitizer 200ml, Poha 500g",3
+0.0238,"Face Wash 100ml, Ghee 500ml, Poha 500g",3
+0.0214,"Face Wash 100ml, Ghee 500ml, Hand Sanitizer 200ml",3
+0.0284,"Face Wash 100ml, Hand Sanitizer 200ml, Toor Dal 1kg",3
+0.024,"Cooking Oil 1L, Face Wash 100ml, Toor Dal 1kg",3
+0.0264,"Cooking Oil 1L, Face Wash 100ml, Hand Sanitizer 200ml",3
+0.0204,"Cooking Oil 1L, Face Wash 100ml, Hand Sanitizer 200ml, Toor Dal 1kg",4
+0.0232,"Basmati Rice 5kg, Face Wash 100ml, Toor Dal 1kg",3
+0.0212,"Basmati Rice 5kg, Cooking Oil 1L, Face Wash 100ml",3
+0.0252,"Basmati Rice 5kg, Face Wash 100ml, Hand Sanitizer 200ml",3
