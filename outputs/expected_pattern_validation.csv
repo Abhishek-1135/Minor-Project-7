@@ -1,0 +1,7 @@
+Pattern,Rule,Support,Confidence,Lift,Found
+Breakfast Combo,Toned Milk 1L → White Bread 400g,0.2384,0.9385826771653544,3.6864991247657284,Yes
+Thali Staples,Basmati Rice 1kg → Toor Dal 1kg,,,,No
+Snack-Drink Combo,Potato Chips 90g → Cola 750ml,0.1974,0.9038461538461537,4.176738234039528,Yes
+Ghar Breakfast,Ghee 500ml → Poha 500g,0.1468,0.8604923798358735,5.067681860046369,Yes
+Tea-Time,Instant Coffee 100g → Choco Cookies 150g,0.152,0.8587570621468926,4.835343818394666,Yes
+Personal Care Restock,Hand Sanitizer 200ml → Face Wash 100ml,0.1318,0.7930204572803852,5.051085715161689,Yes
